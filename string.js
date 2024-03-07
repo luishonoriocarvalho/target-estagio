@@ -7,7 +7,7 @@ function inverterString(str) {
 }
 
 
-const minhaString = "testando";
+const minhaString = "testando"
 const stringInvertida = inverterString(minhaString)
 console.log("String original:", minhaString)
 console.log("String invertida:", stringInvertida)
